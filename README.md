@@ -17,7 +17,7 @@ Highly customizable and easy to use. Fits many screen resolutions from small mob
 AdminLTE.io just opened a new premium templates page. Hand picked to ensure the best quality and the most affordable
 prices. Visit <https://adminlte.io/premium> for more information.
 
-!["AdminLTE Presentation"](https://adminlte.io/AdminLTE3.png "AdminLTE Presentation")
+!["AdminLTE Presentation"](https://github.com/mhk67/AdminLTE-3.2.0-to-RTL/blob/main/AdminLTE3_Dashboard.png?raw=true "AdminLTE Presentation")
 
 **AdminLTE** has been carefully coded with clear comments in all of its JS, SCSS and HTML files.
 SCSS has been used to increase code customizability.
