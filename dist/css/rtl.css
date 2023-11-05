@@ -34,7 +34,6 @@
   .sidebar-mini.sidebar-collapse .content-wrapper,
   .sidebar-mini.sidebar-collapse .main-footer,
   .sidebar-mini.sidebar-collapse .main-header {
-    background: red;
     margin-right: 4.6rem !important;
     margin-left: auto !important;
   }
