@@ -12,11 +12,22 @@
 }
 .main-header ul.navbar-nav{
   padding-right: 0;
-  padding-left: 2rem;
+  padding-left: 0;
 }
 .main-header ul.navbar-nav.ml-auto{
   margin-right: auto!important;
   margin-left: 0 !important;
+}
+
+@media (max-width: 991.98px){
+  .sidebar-mini.sidebar-collapse .main-sidebar {
+    box-shadow: none!important;
+  }
+}
+
+.sidebar-collapse .main-sidebar, .sidebar-collapse .main-sidebar::before {
+  margin-right: -250px;
+  margin-left: 0;
 }
 
 @media (min-width: 768px) {
