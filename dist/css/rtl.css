@@ -1,3 +1,6 @@
+.rtl{
+  direction: rtl;
+}
 .layout-fixed .main-sidebar {
   bottom: 0;
   float: none;
